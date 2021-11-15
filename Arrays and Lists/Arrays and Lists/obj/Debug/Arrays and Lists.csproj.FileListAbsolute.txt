@@ -5,3 +5,10 @@ C:\Users\junio\source\repos\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays a
 C:\Users\junio\source\repos\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.pdb
 C:\Users\junio\source\repos\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.exe
 C:\Users\junio\source\repos\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.pdb
+C:\Users\junio\OneDrive\Documents\GitHub\Array-and-List\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.exe.config
+C:\Users\junio\OneDrive\Documents\GitHub\Array-and-List\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.exe
+C:\Users\junio\OneDrive\Documents\GitHub\Array-and-List\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.pdb
+C:\Users\junio\OneDrive\Documents\GitHub\Array-and-List\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.csproj.AssemblyReference.cache
+C:\Users\junio\OneDrive\Documents\GitHub\Array-and-List\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documents\GitHub\Array-and-List\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.exe
+C:\Users\junio\OneDrive\Documents\GitHub\Array-and-List\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.pdb
